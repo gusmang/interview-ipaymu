@@ -12,9 +12,11 @@ file_database ( silakan di import )
 Saya juga sudah upload secara online untuk demo live nya di server saya :
 
 FrontEnd : 
+
 https://interview.balikencana-dev.com
 
 Backend : ( username = user@gmail.com , password = 12345678 )
+
 https://interview.balikencana-dev.com/administrator 
 
 
@@ -24,3 +26,14 @@ Terima Kasih Atas Kesempatannya , Sekian dan Terima Kasih
 *) note 
 
 saya menggunakan apache untuk menjalankan web nya di local (XAMPP), tidak menggunakan built in server atau ( php serve )
+
+Untuk development saya memakai :
+
+Bahasa pemrograman Backend : PHP ( Framework Laravel ) 
+
+Bahasa pemrograman FrontEnd : Javascript ( Framework Jquery ) 
+Bahasa pemrograman FrontEnd : CSS ( Framework Bootstrap ) 
+
+Database   : Mysql
+Web Server : Apache ( XAMPP )
+
