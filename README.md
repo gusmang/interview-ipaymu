@@ -32,8 +32,10 @@ Untuk development saya memakai :
 Bahasa pemrograman Backend : PHP ( Framework Laravel ) 
 
 Bahasa pemrograman FrontEnd : Javascript ( Framework Jquery ) 
+
 Bahasa pemrograman FrontEnd : CSS ( Framework Bootstrap ) 
 
 Database   : Mysql
+
 Web Server : Apache ( XAMPP )
 
