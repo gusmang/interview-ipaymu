@@ -1,0 +1,464 @@
+@media (max-width: 1368px) {
+    body{font-size: 14px;}
+    .re-i{height: 250px;}
+    .w-ci{height: 375px;}
+    .pt-s {
+        padding-top: 30px;
+    }
+    .w-tsim {        
+        height: 250px;}
+    .w-tes button.owl-prev, .w-tes button.owl-next{width: 35px; height: 35px;}
+    .w-tes button.owl-prev {
+        margin-left: 90px;
+    }
+    .w-tes button.owl-next {
+        margin-right: 90px;
+    }
+    a.so-lnk{padding: 7px 16px;}
+    .so-img{height: 300px;}
+    .so-det span {
+        font-size: 12px;
+    }
+    a.so-chat{font-size: 12px; padding: 8px 15px 8px 40px;margin-left: 10px;}
+    a.so-chat::before {
+        left: 12px;
+        top: 5px;
+    }
+    .so-det h3{line-height: 30px; margin-bottom: 22px;}
+    .so-con.wow.fadeInUp {
+        padding: 10px 10px 80px;
+    }
+    .so-det h3{font-size: 20px;}
+    .hp-img{height: 330px;}
+    a.vd-via{height: 436px; padding: 6px 5px 6px 0;}
+    a.vd-ha{height: 218px; padding: 6px;}
+    h3.vi-header{font-size: 36px; line-height: 24px;}
+    .rds-c h4{font-size: 16px; line-height: 5px;}
+    .rds-c p{font-size: 14px;}
+    .rd-s {        
+        padding: 18px 18px 10px;
+    }
+    .rd-d{margin-top: 20px; font-size: 14px;}
+    .rd-f h4{font-size: 20px;}
+    .rd-f li{font-size: 14px;}
+    .rd-f li::before{width: 16px; height: 16px; left: -24px;}
+    .rd-f ul{padding-left: 24px;}
+    .rd-f{padding: 20px 20px 7px;}
+    .rd-l a{font-size: 14px;}
+    span.vi-sub{font-size: 22px;}
+    .ft-logo img{width: 270px;}
+    .ft-address{font-size: 12px;}
+    .copy {
+        font-size: 12px;
+    }
+    .socmed {
+        font-size: 12px;
+    }
+    .socmed img{width: 20px;}
+    .fl-chat a{font-size: 12px;}
+    .breadc h3{font-size: 30px;}
+    section.bg-green.bc {
+        padding-top: 30px;
+        padding-bottom: 30px;
+    }
+    .vd-img{height: 370px;}
+    .vd-details h3{font-size: 38px; line-height: 26px;}
+    .vd-details span{font-size: 16px;}
+    .vd-details p{margin-top: 15px; font-size: 14px; line-height: 20px; -webkit-line-clamp: 3}    
+    .vdd-img{height: 130px;}
+    .vdd-img-con{margin-top: 20px; padding-bottom: 25px; margin-bottom: 30px;}
+    .vd-details a{font-size: 12px;}
+    .fl-chat img{width: 20px;}
+    .v-header h3{font-size: 34px;}
+    .vn-c h3{font-size: 32px;}
+    .vn-c p{line-height: 6px; font-size: 14px;}
+    .villa-name a{font-size: 12px;padding: 7px 35px;}
+    .vn-c {
+        margin-bottom: 12px;
+    }
+    .container {
+        width: 985px;
+    }
+    .spc-info p{font-size: 14px;}
+    .spc-info h3{font-size: 20px;}
+    .spc-img{height: 275px;}
+    h3.left-b-header{font-size: 35px;}
+    section {
+        padding: 65px 0;
+    }
+    .villa-name{padding: 20px 145px 33px 33px;}
+    .villa-img::after{height: 65px;}
+    .villa-img{height: 450px;}
+    .logo {
+        width: 250px;
+        margin-top: 50px;
+    }
+    h1.label{
+        font-size: 32px;
+    }
+    .social{font-size: 16px;
+    margin-top: 90px;}
+    .sosmed li a img{width: 24px;}
+    .sosmed{margin-top: 10px; margin-bottom: 60px;}
+    .container-lg {
+        width: 1130px;
+    }
+    .navbar{padding: 0.5rem 9rem;}
+    .navbar-logo img{width: 130px;}
+    .navbar-logo{padding: 35px 17px;}
+    .nav-link{font-size: 14px;}
+    li.nav-item {
+        padding: 0 0.8rem;
+    }
+    .nav-book-btn {
+        font-size: 12px;
+        padding: 25px 35px;
+        top: -9px;
+        line-height: 15px;
+    }
+    .nav-book-btn::after {
+        border-top: 15px solid;
+        border-right: 53px solid transparent;
+        border-left: 53px solid transparent;
+        top: 80px;
+    }
+    .ct-left{padding-left: 170px;}
+    .ct-dt p {
+        font-size: 16px;     
+    }
+    .navbar-nav {
+        margin-right: 115px;
+    }
+    .dropdown-item{font-size: 14px;}
+    .carousel-caption p {        
+        font-size: 16px;
+    }
+    .carousel-caption h5 {     
+        font-size: 55px;
+        width: 470px;        
+    }
+    .welcome-cont p{font-size: 14px;}
+    .welcome-cont h5{font-size: 32px;width: 355px;}
+    .welcome-cont a{font-size: 12px; padding: 18px 36px;}
+    .welcome-video{height: 420px;}
+    .sub{font-size: 16px;}
+}
+@media (max-width: 1200px){
+    .navbar {
+        padding: 0.5rem 7rem;
+    }
+    .navbar-expand-md .navbar-collapse {
+        display: -ms-flexbox;
+        display: flex;
+        -ms-flex-preferred-size: auto;
+        flex-basis: auto;
+      }
+      .fl-chat{bottom: 95px;}
+      .w-tes button.owl-prev {
+        margin-left: 40px;
+    }
+    .w-tes button.owl-next {
+        margin-right: 40px;
+    }
+}
+@media (max-width: 1024px){
+    .navbar-expand-md .navbar-collapse{line-height: 1.5;}
+    .navbar {
+        padding: 0.5rem 2rem;
+    }
+    .navbar-expand-md .navbar-collapse {
+        display: -ms-flexbox ;
+        display: flex;
+        -ms-flex-preferred-size: auto;
+        flex-basis: auto;
+      }
+      .w-tes button.owl-prev {
+        margin-left: 10px;
+    }
+    .w-tes button.owl-next {
+        margin-right: 10px;
+    }
+    .ct-left {
+        padding-left: 60px;
+        padding-right: 50px;
+    }
+}
+@media (max-width: 915px){
+    .navbar {
+        padding: 0.5rem 0.9rem;
+    }
+    .navbar-logo img {
+        width: 95px;
+    }
+    .carousel-caption h5 {
+        font-size: 42px;
+        width: 450px;
+    }
+    .villa-img {
+        height: 400px;
+    }
+    footer {
+        padding: 50px 0 120px;
+    }
+}
+@media (max-width: 851px){
+    li.nav-item {
+        padding: 0 0.5rem;
+    }
+    .navbar-expand-md .navbar-collapse {display: none;}
+    .sm-d-none{display: none;}
+    .sm-d-block{display: block;}
+    .mobile-nav{display: block;}
+    .mobile-book{display: block;}
+    .mobile-book a {
+        width: 100%;
+        background-color: #1C110A;
+        color: #fff;
+        z-index: 1;
+        display: block;
+        text-align: center;
+        padding: 10px;
+        text-transform: uppercase;
+        letter-spacing: 1px;
+        position: fixed;
+        bottom: 0;
+    }
+    .fl-chat {     
+        bottom: 70px;
+        right: 15px;        
+    }
+    
+    .r-det {
+        padding-right: 0;
+        padding-top: 30px;
+    }
+    .re-i {
+        height: 170px;
+    }
+    .ct-left {
+        padding-left: 30px;
+        padding-right: 40px;
+    }
+}
+@media (max-width: 768px){
+    li.nav-item {
+        padding: 0 0.5rem;
+    }
+    .sm-d-none{display: none;}
+    .sm-d-block{display: block;}
+    .mobile-nav{display: block;}
+    .mobile-book{display: block;}
+    .mobile-book a {
+        width: 100%;
+        background-color: #1C110A;
+        color: #fff;
+        z-index: 1;
+        display: block;
+        text-align: center;
+        padding: 10px;
+        text-transform: uppercase;
+        letter-spacing: 1px;
+        position: fixed;
+        bottom: 0;
+    }
+    .w-tes button.owl-prev, .w-tes button.owl-next{display: none;}
+}
+@media (max-width: 720px){
+    .container-lg{width: 700px;}
+    .pt-s{margin-top: 0px;}
+    .sm-d-none{display: none;}
+    .sm-d-block{display: block;}
+    .navbar-toggler-icon{display: none; pointer-events: none;}
+    .navbar-dark .navbar-toggler-icon{background-image: none;}
+    .navbar-dark .navbar-toggler{border: none;}
+    .mobile-nav{display: block;}
+    .mobile-book{display: block;}
+    footer {
+        padding: 50px 0 150px;
+    }
+    .mobile-book a {
+        font-size: 18px;
+        width: 100%;
+        background-color: #1C110A;
+        color: #fff;
+        z-index: 15;
+        display: block;
+        text-align: center;
+        padding: 10px;
+        text-transform: uppercase;
+        letter-spacing: 1px;
+        position: fixed;
+        bottom: 0;
+    }
+    .sm-h-400{height: 400px;}
+    .sm-justify-content-center{justify-content: center !important;}
+    .carousel-caption h5{width: 360px;}
+    .villa-name {
+        padding: 20px 50px 33px 33px;
+    }
+    .vn-c p{line-height: 16px;}
+    .container{width: 100%;}
+    .hp-img{height: 320px;}
+    .vd-details {
+        padding-left: 0px;
+        padding-top: 20px;
+    }
+    .flip .vd-details {
+        padding-left: 0;
+        padding-right: 0px;
+    }
+    .vd-details p{-webkit-line-clamp: 2;}
+    .order-md-1{
+        -ms-flex-order: 1;
+        order: 1;
+    }
+    .order-md-2{
+        -ms-flex-order: 2;
+        order: 2;
+    }
+    ul.g-f {
+        display: block;
+        padding-left: 0;
+    }
+    .g-f li.nav {
+        margin-right: 0;
+        margin-bottom: 2px;
+    }
+    .g-f .nav a {
+        width: 100%;
+        text-align: center;
+    }
+    .grid.grid-3col li {
+        width: 50%;
+        padding: 2px;
+    }
+}
+
+@media (max-width: 540px) {
+    .w-cc{position: relative; width: 100%; top: 50px;}
+    .w-ss{position: relative;;}
+    .w-ss{padding: 0;}
+    .td-con {
+        margin-top: 40px;
+    }
+    .ct-left {        
+        width: 100%;
+        padding-top: 50px;
+    }
+    .ct-map {
+        width: 100%;
+        padding-top: 50px;
+    }
+}
+
+@media (max-width: 420px) {
+    .container-lg{ width: 400px;}
+    .e-img{height: 400px;}
+    .vd-img {
+        height: 220px;
+        margin-bottom: 20px;
+    }
+    .mobile-book a {font-size: 22px;}
+    .vd-details a {
+        font-size: 16px;
+        display: block;
+        text-align: center;
+    }
+    .order-sm-1{
+        -ms-flex-order: 1;
+        order: 1;
+    }
+    a.vd-via{width: 100%; height: 250px; padding: 6px;}
+    .vd-hi{width: 100%;}
+    a.vd-ha{width: 100%; height: 250px;}
+    .gc-c{width: 100%; position: relative; flex-wrap: wrap;}
+    .order-sm-2{
+        -ms-flex-order: 2;
+        order: 2;
+    }
+    .vd-details p{font-size: 16px; -webkit-line-clamp: 3; line-height: 25px;}
+    .overlay ul li a{font-size: 24px; line-height: 40px;}
+    .ft-logo img{width: 350px;}
+    .sosmed li a img {
+        width: 30px;
+    }
+    .sm-h-400{height: 400px;}
+    .carousel-caption h5 {
+        font-size: 50px;
+        width: 100%;
+    }
+    .villa-name {
+        padding: 20px 20px 33px 33px;
+    }
+    .vn-c p{line-height: 16px;}
+    .sm-justify-content-center{justify-content: center !important;}
+    .carousel-caption h5{font-size: 40px;}
+    .container {
+        width: 100%;
+    }
+    .rd-d {
+        margin-top: 20px;
+        font-size: 16px;
+    }
+    .rd-f li {
+        font-size: 16px;
+    }
+    .rds-c h4 {
+        font-size: 20px;
+        line-height: 16px;
+    }
+    .ft-address {
+        font-size: 16px;
+    }
+    .copy {
+        font-size: 16px;
+    }
+    .socmed {
+        font-size: 16px;
+    }
+    .socmed img {
+        width: 35px;
+        margin-top: -12px;
+        margin-left: 10px;
+    }
+    .fl-chat a {
+        font-size: 16px;
+    }
+    .rds-c p {
+        font-size: 18px;
+    }
+    .copy {
+        width: 100%;
+        text-align: center;
+        margin-bottom: 20px;
+    }
+    .socmed {
+        width: 100%;     
+        justify-content: center;        
+    }
+    .so-det{padding-left: 0;}
+    .so-det span::before{width: 0;}
+    .so-det span {
+        font-size: 14px;
+    }
+    .so-det h3 {
+        font-size: 25px;
+        line-height: 40px;
+    }
+    .owl-item > div{margin: 0;}
+}
+@media (max-width: 390px){
+    .ft-logo img{width: 300px;}
+    .ft-address{width: 80%; margin: auto;}
+}
+@media (max-width: 280px) {
+    .container-lg{width: 260px;}
+    .logo{width: 200px;}
+    .carousel-caption h5 {
+        font-size: 35px;        
+    }
+    .welcome-cont h5 {
+        font-size: 30px;
+        width: 100%;
+    }
+}
