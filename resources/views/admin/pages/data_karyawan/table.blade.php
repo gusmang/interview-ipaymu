@@ -261,8 +261,9 @@
                                                     <option value=""> - Pilih Pekerjaan - </option>
                                                     <?php
                                                         foreach($pekerjaanData as $rows){
+                                                            $selected = $rows->id_list_pekerjaan == $pekerjaanId ? "selected" : "";
                                                             ?>
-                                                                <option value="<?php echo $rows->id_list_pekerjaan; ?>"> <?php echo $rows->nama_pekerjaan; ?> </option>
+                                                                <option value="<?php echo $rows->id_list_pekerjaan; ?>" <?php echo $selected; ?>> <?php echo $rows->nama_pekerjaan; ?> </option>
                                                             <?php
                                                         }
                                                     ?>
@@ -313,7 +314,7 @@
                                                     <td><?php echo $rows->nip; ?></td>
                                                     <td><?php echo $rows->nama; ?></td>
                                                     <td><?php echo $rows->nama_pekerjaan; ?></td>
-                                                    <td><?php echo "<i class='icon-envelope'></i> ".$rows->email."<br />"."<i class='bi bi-whatsapp'></i> ".$rows->no_wa; ?></td>
+                                                    <td><?php echo "<i class='icon-envelope'></i> ".$rows->email."<br />"."<i class='bi bi-whatsapp'></i> +".$rows->no_wa; ?></td>
                                                     <td><?php echo $hari. " , ".tgl_indo($rows->tanggal_lahir)."<br />".$tanggal_sts."<br />".$mgg_status; ?></td>
                                                     <td><a href="javascript:void(0)" onclick="edit_modal('<?php echo $rows->uuid; ?>')"> <i class="icon-pencil"></i> Edit </a> &nbsp; <br /> <a href="javascript:void(0)" onclick="hapus_modal('<?php echo $rows->uuid; ?>')"> <i class="icon-trash"></i> Delete</a> </td>
                                                 </tr>
